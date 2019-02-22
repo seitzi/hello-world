@@ -1,2 +1,2 @@
 # hello-world
-miscellaneous stuff
+This repository includes miscellaneous stuff.
