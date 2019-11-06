@@ -1,0 +1,59 @@
+Open git-bash or git-cmd
+
+Navigate to Folder:
+ cd //d/dfs/users/all/seitzi/private/GitFolder
+ 
+Turn project folder into a local Git repository:
+ git init
+
+Status:
+ git status
+
+Mark file for saving:
+ git add foldy/changed_file_1.txt
+Mark all changed files:
+ git add .
+
+Save marked files to the local repository:
+ git commit -m "I did this!"
+
+Add & commit:
+ git commit -a
+
+Show branches worked on locally:
+ git branch
+ 
+Merge two branches:
+ git merge
+ 
+Update local line of development with updates from its remote counterpart:
+ git pull
+ 
+Update the remote repository with any commits made locally to a branch:
+ git push
+
+Clone remote repository to local environment:
+ git clone https://github.com/seitzi/hello-world.git
+
+Create new branch:
+ git branch my-branch
+ 
+switch to that branch:
+ git checkout my-branch
+ 
+Push that branch:
+ git add .
+ git commit -m "branchyy"
+ git push --set-upstream origin my-branch
+
+
+Work on someone else's repo:
+ fork it, commit it to my GitHub, create pull request
+ 
+ 
+Personal free GitHub Page website based on Markdown
+ 
+ 
+ 
+ 
+ 
