@@ -9,3 +9,6 @@ https://github.github.com/training-kit/
 
 Nicer documentation :+1::
 https://guides.github.com/features/mastering-markdown/
+
+- Emoji :wink::
+https://www.webfx.com/tools/emoji-cheat-sheet/
